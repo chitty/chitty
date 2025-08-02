@@ -1,4 +1,3 @@
-## Hi there 👋
+I'm a full stack engineer with a passion for solving real-world problems through technology. I've worked at scale with companies like Shopify, traveled the world while building software remotely, and contributed to open-source communities. I'm driven by purpose, community, and continuous learning.
 
-I'm a Software Engineer who enjoys solving complex problems and making systems simpler, faster, and easier to work with. I've worked on high-scale systems at Shopify, led billing platform refactors, and mentored teammates through architectural changes
-and upgrades. I care about building technology that supports human well-being and I bring a thoughtful, collaborative mindset to every project I join.
+I aim to live intentionally and build tools that simplify and improve life. I'm passionate about education, wellness, fitness, financial markets, community, and parenting. I'm currently looking for place where I can grow as an engineer and a human, surrounded by people who care about making a difference.
